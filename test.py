@@ -1,3 +1,3 @@
 # python test in github
 c = 2
-print c
+print "This is the master branch, no one has more power than me"
